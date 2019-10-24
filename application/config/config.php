@@ -23,8 +23,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/PWFL_UNISNU_DB_e-tiket-bus
-/';
+$config['base_url'] = 'http://localhost/e-tiket-bus/';
 
 /*
 |--------------------------------------------------------------------------
